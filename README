@@ -1,0 +1,7 @@
+This archive contains preliminary version of the Freebox standard
+library for Qml application development.
+
+APIs may change anytime before final release.
+
+Some APIs depend on modules unavailable outside Freebox Player runtime
+context, thus dont work as expected on a workstation.
