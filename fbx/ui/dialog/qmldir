@@ -1,0 +1,7 @@
+Alert 1.0 alert.qml
+DialogBase 1.0 dialog_base.qml
+Dialog 1.0 dialog.js
+PromptDialog 1.0 prompt_dialog.qml
+UserPassDialog 1.0 user_pass_dialog.qml
+PinDialog 1.0 pin_dialog.qml
+Frame 1.0 frame.qml

@@ -1,0 +1,4 @@
+View 1.0 view.qml
+AudioPlayer 1.0 audio_player.qml
+VideoPlayer 1.0 video_player.qml
+PlayerTimeline 1.0 player_timeline.qml

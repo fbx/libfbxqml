@@ -1,0 +1,9 @@
+Http 1.0 http.js
+JsonRpc 1.0 jsonrpc.js
+Oauth 1.0 oauth.js
+ParseUri 1.0 parseuri.js
+Rest 1.0 rest.js
+Xml 1.0 xml.js
+FreeboxOS 1.0 freeboxos.js
+FreeboxOSAuth 1.0 freeboxos_auth.js
+Store 1.0 store.js

@@ -1,0 +1,8 @@
+Action 1.0 action.qml
+CheckBox 1.0 check_box.qml
+Entry 1.0 entry.qml
+Menu 1.0 menu.qml
+Section 1.0 section.qml
+Separator 1.0 separator.qml
+Submenu 1.0 submenu.qml
+View 1.0 view.qml

@@ -1,0 +1,5 @@
+ChildWatcher 1.0 child_watcher.qml
+ComponentListModel 1.0 component_list_model.qml
+KeyNumericInput 1.0 key_numeric_input.qml
+TransitionManager 1.0 transition_manager.qml
+KeyRepeatController 1.0 key_repeat_controller.qml

@@ -1,0 +1,6 @@
+Checkable 1.0 checkable.qml
+Clickable 1.0 clickable.qml
+ClippedBar 1.0 clipped_bar.qml
+FocusToggler 1.0 focus_toggler.qml
+Restorable 1.0 restorable.qml
+StandardAsset 1.0 standard_asset.qml
